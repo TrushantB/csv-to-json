@@ -1,0 +1,25 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "customer-name": "Jathar",
+      "buff": "1",
+      "cow": "2",
+      "date": "4/5/2019"
+    },
+    {
+      "id": 2,
+      "customer-name": "Kulkarni",
+      "buff": "0.5",
+      "cow": "3",
+      "date": "5/5/2019"
+    },
+    {
+      "id": 3,
+      "customer-name": "kakde",
+      "buff": "5",
+      "cow": "6",
+      "date": "6/5/2019"
+    }
+  ]
+}
